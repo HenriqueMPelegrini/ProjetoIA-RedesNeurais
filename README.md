@@ -1,0 +1,2 @@
+# Projeto IA - Rede Neurais (MLP)
+Este projeto consiste no desenvolvimento manual de um sistema de inteligência artificial, sem o uso de frameworks prontos, com o objetivo de estudar e compreender os fundamentos do aprendizado de máquina. O código foi projetado para simular o funcionamento de uma MLP (Multilayer Perceptron), implementando uma rede neural com múltiplas camadas e ajustes nos pesos sinápticos para aprendizado progressivo. A solução é capaz de processar e analisar dados, identificar padrões e tomar decisões com base nas informações fornecidas.
